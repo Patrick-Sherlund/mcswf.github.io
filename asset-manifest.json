@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.7d1b541d.js",
-    "static/js/787.b523fd44.chunk.js": "/static/js/787.b523fd44.chunk.js",
-    "static/media/logo.png": "/static/media/logo.55e439af026600f32da0.png",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.7d1b541d.js.map": "/static/js/main.7d1b541d.js.map",
-    "787.b523fd44.chunk.js.map": "/static/js/787.b523fd44.chunk.js.map"
+    "main.css": "https://patrick-sherlund.github.io/mcswf.github.io/static/css/main.073c9b0a.css",
+    "main.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.2275a8c1.js",
+    "static/js/787.b523fd44.chunk.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/787.b523fd44.chunk.js",
+    "static/media/logo.png": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/logo.55e439af026600f32da0.png",
+    "index.html": "https://patrick-sherlund.github.io/mcswf.github.io/index.html",
+    "main.073c9b0a.css.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/css/main.073c9b0a.css.map",
+    "main.2275a8c1.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.2275a8c1.js.map",
+    "787.b523fd44.chunk.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/787.b523fd44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7d1b541d.js"
+    "static/js/main.2275a8c1.js"
   ]
 }
