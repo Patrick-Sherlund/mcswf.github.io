@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "static/css/main.073c9b0a.css",
-    "main.js": "static/js/main.7d1b541d.js",
-    "static/js/787.b523fd44.chunk.js": "static/js/787.b523fd44.chunk.js",
-    "static/media/logo.png": "/mcswf.github.io/static/media/logo.55e439af026600f32da0.png",
-    "index.html": "index.html",
-    "main.073c9b0a.css.map": "static/css/main.073c9b0a.css.map",
-    "main.7d1b541d.js.map": "static/js/main.7d1b541d.js.map",
-    "787.b523fd44.chunk.js.map": "static/js/787.b523fd44.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.7d1b541d.js",
+    "static/js/787.b523fd44.chunk.js": "/static/js/787.b523fd44.chunk.js",
+    "static/media/logo.png": "/static/media/logo.55e439af026600f32da0.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.7d1b541d.js.map": "/static/js/main.7d1b541d.js.map",
+    "787.b523fd44.chunk.js.map": "/static/js/787.b523fd44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
