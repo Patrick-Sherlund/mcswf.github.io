@@ -1,14 +1,38 @@
 {
   "files": {
-    "main.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.ba184b48.js",
+    "main.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.caa77581.js",
     "static/js/787.b523fd44.chunk.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/787.b523fd44.chunk.js",
     "static/media/background.png": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/background.186a8fd2f390ddd51b81.png",
     "static/media/logo.png": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/logo.f6afb7bac978b12d05d8.png",
+    "static/media/DINNextLTPro-Light.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Light.9c9574dcc2bcc0dcbef6.ttf",
+    "static/media/DINNextLTPro-LightCondensed.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-LightCondensed.2b31dcd01bc303eef330.ttf",
+    "static/media/DINNextLTPro-Regular.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Regular.df403105e2e876bc6597.ttf",
+    "static/media/DINNextLTPro-Bold.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Bold.a8c1bc9c03a372138023.ttf",
+    "static/media/DINNextLTPro-Heavy.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Heavy.26f5041a501946efa9a1.ttf",
+    "static/media/DINNextLTPro-BoldCondensed.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-BoldCondensed.504f9ec5769b59b5a12d.ttf",
+    "static/media/DINNextLTPro-Light.woff": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Light.71eeeebf43c27d9462f1.woff",
+    "static/media/DINNextLTPro-Regular.woff": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Regular.e4d0be010d32e2cb82ec.woff",
+    "static/media/DINNextLTPro-LightCondensed.woff": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-LightCondensed.218422885cbbc92200c2.woff",
+    "static/media/DINNextLTPro-Heavy.woff": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Heavy.090f796f6c56638cc5d5.woff",
+    "static/media/DINNextLTPro-Bold.woff": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Bold.cb7467e1f3cc228c378c.woff",
+    "static/media/DINNextLTPro-BoldCondensed.woff": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-BoldCondensed.2ed42fd7e1ed431ba134.woff",
+    "static/media/DINNextLTPro-Light.eot": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Light.801a737e992d0758661d.eot",
+    "static/media/DINNextLTPro-LightCondensed.eot": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-LightCondensed.6413b04d429544ebfb25.eot",
+    "static/media/DINNextLTPro-Regular.eot": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Regular.ade5284e07ae2ba4363d.eot",
+    "static/media/DINNextLTPro-Light.woff2": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Light.9ccab2d0d1e1de50a303.woff2",
+    "static/media/DINNextLTPro-Regular.woff2": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Regular.25b55e94a81d2833c936.woff2",
+    "static/media/DINNextLTPro-LightCondensed.woff2": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-LightCondensed.edb1bda88b011abfe6db.woff2",
+    "static/media/DINNextLTPro-Heavy.eot": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Heavy.db9f5c67e4bb702cee75.eot",
+    "static/media/DINNextLTPro-BoldCondensed.eot": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-BoldCondensed.54013cdf72262631387e.eot",
+    "static/media/DINNextLTPro-Bold.eot": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Bold.8698ab0c9a5f951192b6.eot",
+    "static/media/DINNextLTPro-Heavy.woff2": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Heavy.640c45dba95fe8e1f5a6.woff2",
+    "static/media/DINNextLTPro-Bold.woff2": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Bold.623b624f25b85c8aeee1.woff2",
+    "static/media/DINNextLTPro-BoldCondensed.woff2": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-BoldCondensed.8fefe91cf745e9f0fc74.woff2",
     "index.html": "https://patrick-sherlund.github.io/mcswf.github.io/index.html",
-    "main.ba184b48.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.ba184b48.js.map",
+    "main.caa77581.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.caa77581.js.map",
     "787.b523fd44.chunk.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/787.b523fd44.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ba184b48.js"
+    "static/js/main.caa77581.js"
   ]
 }
