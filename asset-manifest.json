@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.2e6410e5.js",
+    "main.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.e1bd7329.js",
     "static/js/787.b523fd44.chunk.js": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/787.b523fd44.chunk.js",
+    "static/media/background-dark.png": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/background-dark.3507ca1e553a38472e1c.png",
     "static/media/background-light.png": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/background-light.8fd11be4fac5cc2b4a96.png",
-    "static/media/background-dark.png": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/background-dark.baec853ebbeb5fc8fa89.png",
     "static/media/logo.png": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/logo.f6afb7bac978b12d05d8.png",
     "static/media/DINNextLTPro-Light.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-Light.9c9574dcc2bcc0dcbef6.ttf",
     "static/media/DINNextLTPro-LightCondensed.ttf": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/DINNextLTPro-LightCondensed.2b31dcd01bc303eef330.ttf",
@@ -37,10 +37,10 @@
     "static/media/linkedin.svg": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/linkedin.54bd35b7fbca40c2333e65e0b0a6db2f.svg",
     "static/media/youtube.svg": "https://patrick-sherlund.github.io/mcswf.github.io/static/media/youtube.0560fc473d7d7d128f681b5684de0d08.svg",
     "index.html": "https://patrick-sherlund.github.io/mcswf.github.io/index.html",
-    "main.2e6410e5.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.2e6410e5.js.map",
+    "main.e1bd7329.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/main.e1bd7329.js.map",
     "787.b523fd44.chunk.js.map": "https://patrick-sherlund.github.io/mcswf.github.io/static/js/787.b523fd44.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2e6410e5.js"
+    "static/js/main.e1bd7329.js"
   ]
 }
